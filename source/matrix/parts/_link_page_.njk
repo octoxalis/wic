@@ -1,0 +1,13 @@
+<nav data--="link_page">
+  <div  data--="link_nav">
+    <button data--="link_top" tabindex="0">⇡</li>
+    {% if tags.includes( A_o.COLLECTION_s ) %}<button data--="link_previous" tabindex="0">précédent</button>{% endif %}
+    <button data--="link_menu" tabindex="0">{{ 'toutes les ' + A_o.COLLECTION_s}}</button>
+    {% if tags.includes( A_o.COLLECTION_s ) %}<button data--="link_next" tabindex="0">suivant</button>{% endif %}
+    <button data--="link_bottom" tabindex="0">⇣</button>
+  </div>
+  <dl data--="link_info" class="retract">
+    <dt data--="link_title"></dt>
+    <dd data--="link_abstract"></dd>
+  </dl>
+</nav>
