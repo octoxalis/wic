@@ -48,9 +48,9 @@ Pour les commentaires, il y a un truc
 {% _note_txt %}
 falait s'en douter!
 {% end_note_txt %}
-. En fait, il suffit de créer un compte sur le site Github
+. En fait, il suffit de créer un compte sur le site [Github](https.github.com)
 {% _note_txt %}
-le rendez-vous interlope des développeurs de site Web, dont je fait partie...
+le rendez-vous interlope des développeurs de site Web, dont je fait partie, mais vous n'êtes pas obligés de dire que vous venez de ma part...
 {% end_note_txt %}
 , c'est gratuit, ça n'engage à rien
 {% _note_txt %}
