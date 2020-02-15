@@ -46,7 +46,7 @@ uniquement à l'eau de source, c'est juré, cochon qui s'en dédit.
 
 Pour les commentaires, il y a un truc
 {% _note_txt %}
-falait s'en douter!
+fallait s'en douter!
 {% end_note_txt %}
 . En fait, il suffit de créer un compte sur le site [Github](https.github.com)
 {% _note_txt %}
