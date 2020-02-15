@@ -75,7 +75,7 @@
 [data--=header_title]
 {
   margin-left: var(--PAD_1);
-  line-height: .55;    /* border-bottom as underline */
+  line-height: .5;    /* border-bottom as underline */
   color: var(--c_prim_lo);
   filter: grayscale(65%);
 }
