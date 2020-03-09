@@ -1,6 +1,6 @@
 ---js
 {
-  date:      `2019-09-01`,
+  date:      `2020-03-01`,
   layout:    `menu.njk`,
   permalink: 'menu.html',
   tags:      [ `notag` ],
